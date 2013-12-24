@@ -1,2 +1,5 @@
-name=test
-
+name=simple node archive
+description = Create node posted in archive blocks.
+core = 7.x
+package = custom
+dependency[] = views 
